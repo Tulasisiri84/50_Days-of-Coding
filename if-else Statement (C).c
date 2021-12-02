@@ -1,5 +1,5 @@
 /*
-Program: Write a C Program if a person is eligible to vote or not
+Program: Write a C Program to check if a person is eligible to vote or not
 Date   : 2.11.2021
 Logic  : if-else statement
 */
